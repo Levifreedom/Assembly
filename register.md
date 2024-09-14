@@ -63,7 +63,7 @@
    >
    > 地址加法器：用于通过段地址和偏移地址计算出物理地址，8086CPU：物理地址 = 段地址 * 16 + 偏移地址
    >
-   > <img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240913220343973.png" alt="image-20240913220343973" style="zoom: 80%;" align="left"/>
+
 
    
 
